@@ -1,6 +1,4 @@
-package Module2.Moduuli2_1;
-
-public class Televiso {
+public class Television {
     //Channel atm
     int channel = 0;
 
