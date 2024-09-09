@@ -1,8 +1,6 @@
-package Module2.Moduuli2_1;
-
 public class TelevisionViewer {
     public static void main(String[] args) {
-        Televiso myTV = new Televiso();
+        Television myTV = new Television();
         myTV.setChannel(1);
 
         for (int day = 1; day <= 10; day++) {
